@@ -1,1 +1,2 @@
 language = "java"
+run = "javac mihsClass.java; java mihsClass"
